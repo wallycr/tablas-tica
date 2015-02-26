@@ -1,5 +1,5 @@
 # Tablas-TICA
-REST de tablas generales de Aduana TICA
+REST API of general tables from Costa Rican customs
 
 ## Synopsis
 
